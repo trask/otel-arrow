@@ -183,27 +183,29 @@ to upgrade this repository is:
 
 ## OpenTelemetry-Arrow Team
 
-It takes a team to keep a repository like this functioning.  We use
-the OpenTelemetry the [Maintainer][MAINTAINERROLE] and
-[Approver][APPROVERROLE] roles to organize our work.
+It takes a team to keep a repository like this functioning.
 
-The current [OpenTelemetry-Arrow maintainers
-(@open-telemetry/arrow-maintainers)][MAINTAINERS] are:
+### Maintainers
 
 - [Laurent Qu&#xE9;rel](https://github.com/lquerel), F5
 - [Joshua MacDonald](https://github.com/jmacd), Microsoft
 - [Drew Relmas](https://github.com/drewrelmas), Microsoft
 
-The current [OpenTelemetry-Arrow approvers
-(@open-telemetry/arrow-approvers)][APPROVERS] are:
+For more information about the maintainer role, see the [community repository](https://github.com/open-telemetry/community/blob/main/community-membership.md#maintainer).
+
+### Approvers
 
 - [Lei Huang](https://github.com/v0y4g3r), Greptime
 - [Albert Lockett](https://github.com/albertlockett), F5
 
-The people who filled these roles in the past:
+For more information about the approver role, see the [community repository](https://github.com/open-telemetry/community/blob/main/community-membership.md#approver).
+
+### Emeritus
 
 - [Moh Osman](https://github.com/moh-osman3)
 - [Alex Boten](https://github.com/codeboten)
+
+For more information about the emeritus role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#emeritus-maintainerapprovertriager).
 
 Thanks to all the contributors!
 
@@ -223,7 +225,3 @@ Thanks to all the contributors!
     https://github.com/open-telemetry/opentelemetry-collector/receiver/otlpreceiver
 [OTLPEXPORTER]:
     https://github.com/open-telemetry/opentelemetry-collector/exporter/otlpexporter
-[APPROVERS]: https://github.com/orgs/open-telemetry/teams/arrow-approvers
-[MAINTAINERS]: https://github.com/orgs/open-telemetry/teams/arrow-maintainers
-[MAINTAINERROLE]: https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#maintainer
-[APPROVERROLE]: https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#approver
